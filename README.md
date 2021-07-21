@@ -1,8 +1,8 @@
 ### Hi, my name is Kevin (@ecolology), and welcome to my GitHub!
 
 
-- :kangaroo: I’m a PhD Student at James Cook University (Bebegu Yumba Campus, Townsville, Australia)
-- :canada: I’m a Canuck originally from Winnipeg, Manitoba 
+- :kangaroo: PhD Student at James Cook University (Bebegu Yumba Campus, Townsville, Australia)
+- :canada: A Canuck originally from Winnipeg, Manitoba 
 - :tropical_fish: Currently developing coral population models that include realistic evolutionary dynamics
 - 😄 Pronouns: Him/His
 
