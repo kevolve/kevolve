@@ -4,9 +4,9 @@
 
 :kangaroo: &nbsp;PhD Student at James Cook University (Bebegu Yumba Campus, Townsville, Australia)
 
-:tropical_fish: &nbsp;Developing coral population models that include realistic evolutionary dynamics
+:tropical_fish: &nbsp;Developing coral population models that include (more) realistic evolutionary dynamics
 
-:canada: &nbsp;Canuck originally from Winnipeg, Manitoba
+:canada: &nbsp;Canuck, originally from Winnipeg, Manitoba
 
 😄 &nbsp;Pronouns: He/Him
 
