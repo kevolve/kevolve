@@ -4,6 +4,8 @@
 
 :kangaroo: &nbsp;PhD Student at James Cook University (Bebegu Yumba Campus, Townsville, Australia)
 
+🧑🏽‍💻 &nbsp;Research Officer at the University of Queensland (Brisbane, Australia)
+
 :tropical_fish: &nbsp;Developing coral population models that include (more) realistic evolutionary dynamics
 
 :canada: &nbsp;Canuck, originally from Winnipeg, Manitoba
