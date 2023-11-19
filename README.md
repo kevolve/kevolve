@@ -2,11 +2,11 @@
 
 <img src="star-wars-hello-there.gif" alt="hello-there" width="200"/>
 
-:kangaroo: &nbsp;Post doc at the University of Queensland (Meeanjin, Brisbane, Australia)
+:kangaroo: &nbsp;Post-doc at the University of Queensland (Meeanjin, Brisbane, Australia)
 
 🧑🏽‍💻 &nbsp;Population modeler and statistician studying eco-evolutionary dynamics
 
-:tropical_fish: &nbsp;Currently developing genetically-explicit models of coral evolution
+:tropical_fish: &nbsp;Currently developing genetically-explicit models of coral evolution with [@CRiginos1](https://github.com/CRiginos1)
 
 :canada: &nbsp;Canuck from Winnipeg, Manitoba
 
