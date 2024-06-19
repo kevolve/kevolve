@@ -1,4 +1,4 @@
-### Hello there! I'm Kev (@ecolology) and welcome to my GitHub!
+### Hello there! I'm Kevin (@ecolology) and welcome to my GitHub!
 
 <img src="star-wars-hello-there.gif" alt="hello-there" width="200"/>
 
