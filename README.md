@@ -8,7 +8,7 @@
 
 ♻️👩🏾‍🔬 &nbsp;Pushing for reproducible, reliable, open, transparent, equitable, and diverse science with [SORTEE](https://www.sortee.org/)
 
-🧬🪸 &nbsp;Currently developing genetically-explicit models of coral evolution with [@CRiginos1](https://github.com/CRiginos1)
+🧬🪸 &nbsp;Developing genetically-explicit models of coral evolution with [@CRiginos1](https://github.com/CRiginos1)
 
 🇨🇦❄️ &nbsp;Canuck originally from Winnipeg, Manitoba
 
