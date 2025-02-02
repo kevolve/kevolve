@@ -2,7 +2,9 @@
 
 <img src="star-wars-hello-there.gif" alt="hello-there" width="200"/>
 
-🦘🌴 &nbsp;Post-doctoral Research Fellow at the University of Queensland (Meeanjin, Brisbane, Australia)
+🦘🌴 &nbsp;Research Scientist at the Australian Institute of Marine Science (Thul Garrie Waja, Cape Cleveland, Australia)
+
+🦘🌴 &nbsp;Former Post-doctoral Research Fellow at the University of Queensland (Meeanjin, Brisbane, Australia)
 
 🧑🏽‍💻🐠 &nbsp;Population eco-evolutionary modelling, R statistics, and data analysis
 
@@ -14,7 +16,7 @@
 
 <br>
 
-If you use my repos often, consider buying me a coffee! ☕
+If you use my repos often, consider sending me a coffee! ☕
 
 <a href="https://www.buymeacoffee.com/ecolology" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
