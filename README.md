@@ -4,7 +4,7 @@
 
 🦘🌴 &nbsp;Research Scientist at the Australian Institute of Marine Science (Thul Garrie Waja, Cape Cleveland, Australia)
 
-🦘🌴 &nbsp;Former Post-doctoral Research Fellow at the University of Queensland (Meeanjin, Brisbane, Australia)
+🪸🕷️ &nbsp;Former Post-doctoral Research Fellow at the University of Queensland (Meeanjin, Brisbane, Australia)
 
 🧑🏽‍💻🐠 &nbsp;Population eco-evolutionary modelling, R statistics, and data analysis
 
